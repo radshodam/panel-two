@@ -8,11 +8,11 @@ const routes = [{
         path: "/messages",
         containerPath: "./pages/message/Messages"
     },
-    // {
-    //     name: "مدیریت محصول",
-    //     path: "/productManagement",
-    //     containerPath: "./pages/productManegment/ProductManegment"
-    // },
+    {
+        name: "مدیریت محصول",
+        path: "/productManagement",
+        containerPath: "./pages/productManegment/ProductManegment"
+    },
     // {
     //     name: "حساب کاربری ویژه",
     //     path: "/specialSpecialAccountAccount",
